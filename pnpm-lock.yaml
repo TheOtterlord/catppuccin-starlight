@@ -43,7 +43,7 @@ importers:
         version: link:../../packages/catppuccin-starlight
       '@fontsource/inter':
         specifier: ^5.1.0
-        version: 5.2.5
+        version: 5.2.6
       astro:
         specifier: 'catalog:'
         version: 5.7.4(rollup@4.40.0)(typescript@5.5.4)(yaml@2.5.1)
@@ -347,8 +347,8 @@ packages:
   '@expressive-code/plugin-text-markers@0.41.1':
     resolution: {integrity: sha512-PFvk91yY+H8KVEcyZSrktLoWzBgLVpowvMxOJooFn74roGxnU4TEBJpWcRnJFtMEwTLzWNnk10MSOApOccvSKg==}
 
-  '@fontsource/inter@5.2.5':
-    resolution: {integrity: sha512-kbsPKj0S4p44JdYRFiW78Td8Ge2sBVxi/PIBwmih+RpSXUdvS9nbs1HIiuUSPtRMi14CqLEZ/fbk7dj7vni1Sg==}
+  '@fontsource/inter@5.2.6':
+    resolution: {integrity: sha512-CZs9S1CrjD0jPwsNy9W6j0BhsmRSQrgwlTNkgQXTsAeDRM42LBRLo3eo9gCzfH4GvV7zpyf78Ozfl773826csw==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -2741,7 +2741,7 @@ snapshots:
     dependencies:
       '@expressive-code/core': 0.41.1
 
-  '@fontsource/inter@5.2.5': {}
+  '@fontsource/inter@5.2.6': {}
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:
